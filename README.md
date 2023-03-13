@@ -7,3 +7,4 @@ Below is an image of the deployed application, along with a link directing to sa
 
 
 Deployed application:
+https://iangoodwin173.github.io/work-day-scheduler/
